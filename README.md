@@ -21,7 +21,7 @@
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
 </a>
 <a href="https://leetcode.com/u/Piyush_014/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" alt="LeetCode" height="30" width="40" />
+    <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png?f=webp" alt="LeetCode" height="30" width="40" />
 </a>
 </p>
 
