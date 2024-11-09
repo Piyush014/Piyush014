@@ -3,6 +3,10 @@
   <img src="https://github-widgetbox.vercel.app/api/profile?username=Piyush014&data=followers,repositories,stars,commits&theme=gray&title_color=000000" alt="GitHub Profile Overview">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush014&bg_color=333333&color=ffffff&line=ff6347&point=ff6347&area=true&hide_border=true" alt="GitHub Activity Graph">
+</p>
+
 <h1 align="center">Hello, I'm Piyush Soni 👋</h1>
 <h3 align="center">Android Developer | Tech Enthusiast | Open-Source Contributor</h3>
 
