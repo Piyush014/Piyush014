@@ -78,8 +78,3 @@
 </div>
 
 ---
-
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/xUPGcxqYWzB9YWFEpq/giphy.gif" alt="Animated Tech Banner" width="80%">
-</p>
