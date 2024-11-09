@@ -1,6 +1,6 @@
 <!-- Intro Section -->
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=Piyush014&data=followers,repositories,stars,commits&theme=gray&title_color=000000">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Piyush014&data=followers,repositories,stars,commits&theme=gray&title_color=000000" alt="GitHub Profile Overview">
 </p>
 
 <h1 align="center">Hello, I'm Piyush Soni 👋</h1>
@@ -15,7 +15,7 @@
 ### 🚀 About Me
 - 🌱 I’m currently enhancing my skills in **Android Development Projects** with Java, Kotlin and Jetpack Compose.
 - 💡 Constantly exploring **Advanced Android Techniques** and taking on **challenging projects**.
-- 📈 Open to collaborate on **Open Source Projects**,**Android**, **Firebase**, and **Jetpack Compose**.
+- 📈 Open to collaborate on **Open Source Projects**, **Android**, **Firebase**, and **Jetpack Compose**.
 - 📚 Avid reader and fan of **Novels, Technical and Self-Improvement** books.
 - 💬 Let’s talk about **Tech Solutions, Android, AI, or anything Exciting**!
 
@@ -23,8 +23,8 @@
 
 ### 📈 GitHub Stats
 
-| ![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Piyush014&show_icons=true&theme=gray&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush014&theme=gray&layout=compact&hide_border=true) |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Piyush014&show_icons=true&theme=gray&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush014&theme=gray&layout=compact&hide_border=true) |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ### 📊 GitHub Streak
 
@@ -35,7 +35,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Piyush014&theme=gray&row=1&column=6" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Piyush014&theme=gray&row=1&column=6&no-frame=true&margin-w=15" alt="GitHub Trophies">
 </p>
 
 ---
@@ -67,7 +67,7 @@
 ### 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush014&bg_color=gray&color=333333&line=0059b3&point=0073e6&area=true&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush014&bg_color=gray&color=333333&line=0059b3&point=0073e6&area=true&hide_border=true" alt="GitHub Contribution Graph">
 </p>
 
 ---
@@ -76,3 +76,10 @@
 <div align="center">
   <sub>Made with ❤️ by Piyush Soni © 2024. All Rights Reserved.</sub>
 </div>
+
+---
+
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/xUPGcxqYWzB9YWFEpq/giphy.gif" alt="Animated Tech Banner" width="80%">
+</p>
