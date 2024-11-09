@@ -73,7 +73,7 @@
 # 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush014&bg_color=great-gatsby&color=333333&line=0059b3&point=0073e6&area=true&hide_border=true" alt="GitHub Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush014&bg_color=gray&color=333333&line=0059b3&point=0073e6&area=true&hide_border=true" alt="GitHub Contribution Graph">
 </p>
 
 ---
