@@ -13,11 +13,11 @@
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently enhancing my skills in **Android Development** with Java and Kotlin.
-- 💡 Constantly exploring **new technologies** and taking on **challenging projects**.
-- 📈 Open to collaborate on **Android (Java, Kotlin)**, **Firebase**, and **Backend Development**.
-- 📚 Avid reader and fan of **tech, manga, and personal growth** books.
-- 💬 Let’s chat about **tech, projects, or anything exciting**!
+- 🌱 I’m currently enhancing my skills in **Android Development Projects** with Java, Kotlin and Jetpack Compose.
+- 💡 Constantly exploring **Advanced Android Techniques** and taking on **challenging projects**.
+- 📈 Open to collaborate on **Open Source Projects**,**Android**, **Firebase**, and **Jetpack Compose**.
+- 📚 Avid reader and fan of **Novels, Technical and Self-Improvement** books.
+- 💬 Let’s talk about **Tech Solutions, Android, AI, or anything Exciting**!
 
 ---
 
