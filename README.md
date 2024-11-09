@@ -78,10 +78,20 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piyush014&theme=gray" alt="Profile Summary Card">
 </div>
 
+
+<p align="center">
+  <img src="https://github.com/Piyush014/Piyush014/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
+
+<!-- Snake -->
+![](https://komarev.com/ghpvc/?username=Piyush014&color=green&style=flat)
+![snake gif](https://github.com/Piyush014/Piyush014/blob/output/github-contribution-grid-snake-dark.svg)
+
 <!-- Visitor Count -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Piyush014&color=gray&style=flat-square" alt="Profile Views">
 </p>
+
 
 <!-- Footer -->
 <div align="center">
