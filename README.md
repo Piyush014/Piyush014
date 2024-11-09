@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush014&bg_color=333333&color=ffffff&line=ff6347&point=ff6347&area=true&hide_border=true" alt="GitHub Activity Graph">
+  <img src="https://github-readme-stats.vercel.app/api?username=Piyush014&show_icons=true&hide_border=true&theme=radical&count_private=true" alt="GitHub Stats">
 </p>
 
 <h1 align="center">Hello, I'm Piyush Soni 👋</h1>
